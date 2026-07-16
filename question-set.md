@@ -1,4 +1,4 @@
-# Benchmark question set
+# Comparison question set
 
 20 questions, asked verbatim on each platform. Every question runs in a fresh conversation, with three exceptions: Q10 is a follow-up to Q9 in the same conversation, and Q3 and Q17 are re-asked in additional fresh conversations as consistency probes. Canonical answers are in `answer-key.md`.
 

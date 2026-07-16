@@ -2,7 +2,7 @@
 
 Companion materials for a Substack post comparing the native conversational data agents of three cloud data platforms: Snowflake (Cortex Analyst), Databricks (AI/BI Genie), and BigQuery (Conversational Analytics). All three were tested on one identical single-table retail dataset.
 
-Read the full write-up here: **[Substack post - link]**
+Read the full write-up here: [How to Pick the Right Data Agent](https://entepriseai.substack.com/p/how-to-pick-the-right-data-agent)
 
 ## Contents
 
